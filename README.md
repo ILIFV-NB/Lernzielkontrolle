@@ -14,39 +14,12 @@ narrator: DE FEMALE
 
 # **Lernzielkontrolle**
 
-Überprüfen Sie hier Ihren Wissensstand.
-
-<br>
-
-<!--
-style="color: red;"
--->
-Beschreibung, welche Leistungen von den Studierenden zu erbringen sind, bevor sie das Praktikum antreten!
-
-Um am Praktikum "Drehen" teilnehmen zu können, sind folgende Vorbereitungen zu treffen:
-
-Ermitteln Sie mit Hilfe des [Oberflächenmodells](#19) und den vorgebenen zu erzielenden Oberflächengüten geeignete Bearbeitungsparameter. Diese benötigen Sie für Ihre praktischen Untersuchungen und sind in der Maschinensteuerung anzuwählen. (Bzw.<!--style="color: red;"--> werden<!--style="color: red;"--> sie<!--style="color: red;"--> über<!--style="color: red;"--> die<!--style="color: red;"--> Webumgebung<!--style="color: red;"--> an<!--style="color: red;"--> die<!--style="color: red;"--> Maschinensteuerung<!--style="color: red;"--> gesendet?)<!--style="color: red;"-->
+Nachdem Sie sich einen Überblick über die Theorie verschafft haben, können Sie hier Ihren Wissensstand überprüfen.
 
 
-Des Weiteren berechnen Sie für Ihre Technologieparameter mit Hilfe des [Zerspankraftmodells](#22) die theoretisch auftretenden Zerspankraftkomponenten. Diese vergleichen Sie später mit den Werten aus der Praxis!
+## Frage 1 - 8
 
-
-<!--
-style="color: red;"
--->
-Beschreibung, welche Leistungen von den Studierenden zu erbringen sind, bevor sie das Praktikum antreten!
-xxxxxyyyyyzzzz
-
-<!--
-style="color: red;"
--->
-Fragen aus den Fach- und Lehrbüchern zur Zerspanungstechnik wie zum Beispiel "Denkena" durcharbeiten. Vielleicht sind noch passende dabei.
-
-
-
-##Grundlagen der Zerspanungstechnik
-
-{{0-28}}
+{{0-16}}
 ***
 **Frage 1**
 
@@ -93,7 +66,7 @@ Welche fünf wesentlichen Kriterien werden zur Beurteilung eines Zerspanprozesse
 
 ***
 
-{{2-28}}
+{{2-16}}
 ***
 **Frage 2**
 
@@ -174,7 +147,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 ***
 
 
-{{4-28}}
+{{4-16}}
 ***
 **Frage 3**
 
@@ -229,7 +202,7 @@ style="font-size: 14px; width: 100%; margin: 0em 5em;"
 ***
 
 
-{{6-28}}
+{{6-16}}
 ***
 **Frage 4**
 
@@ -268,7 +241,7 @@ style="font-size: 14px; width: 100%; margin: 0em 1em;"
 ***
 
 
-{{8-28}}
+{{8-16}}
 ***
 **Frage 5**
 
@@ -309,7 +282,7 @@ style="font-size: 14px; width: 100%; margin: 0em 1em;"
 
 
 
-{{10-28}}
+{{10-16}}
 ***
 **Frage 6**
 
@@ -349,7 +322,7 @@ style="font-size: 14px; width: 100%; margin: 0em 1em;"
 ***
 
 
-{{12-28}}
+{{12-16}}
 ***
 **Frage 7**
 
@@ -387,11 +360,11 @@ style="font-size: 14px; width: 100%; margin: 0em 1em;"
 ***
 
 
-{{14-28}}
+{{14-16}}
 ***
 **Frage 8**
 
-In der nachfolgenden Abbildung sind die Winkel und Beziehungen in der im Werkzeug-Bezugssystem einzutragen!
+In der nachfolgenden Abbildung sind die Winkel und Beziehungen in der Werkzeug-Bezugsebene einzutragen!
 
 ***
 
@@ -441,139 +414,11 @@ style="font-size: 14px; width: 100%; margin: 0em 1em;"
 
 
 
+## Frage 9 - 15
 
-{{16-28}}
+{{0-14}}
 ***
 **Frage 9**
-
-Winkel in der Werkzeugschneidenebene?
-
-
-***
-
-{{17-18}}
-***
-> ~~Antwort Frage 9~~
->
-
-***
-
-
-
-{{18-28}}
-***
-**Frage 10**
-
-Winkel in der Werkzeugorthogonalebene?
-
-
-***
-
-{{19-20}}
-***
-> ~~Antwort Frage 10~~
->
-
-***
-
-
-
-{{20-28}}
-***
-**Frage 11**
-
-Wie können Sie durch die Auswahl der Werkzeugwinkel den Zerspanprozess beeinflussen?
-
-***
-
-{{21-22}}
-***
-
-> ~~Antwort Frage 11~~
->
-> xxxxxyyyyyzzzz
->
-> xxxxxyyyyyzzzz
->
-> <!--
-style="color: red;"
--->
-> Antwort muss noch ausgearbeitet werden!
-
-***
-
-{{22-28}}
-***
-**Frage 12**
-
-Erläutern Sie die spanungstechnischen Ursachen für die Rauheit einer Werkstückoberfläche am Beispiel Drehen!
-***
-
-{{23-24}}
-***
-
-> ~~Antwort Frage 12~~
->
-> <!--
-style="color: red;"
--->
-> Antwort muss noch ausgearbeitet werden!
-
-***
-
-
-{{24-28}}
-***
-**Frage 13**
-
-Beschreiben Sie das Rauheitsmodell zur rechnerischen Auslegung der Werkstückoberfläch beim Drehen! Gehen Sie auf die maßgebenden Einflussgrößen ein!
-***
-
-{{25-26}}
-***
-> ~~Antwort Frage 13~~
->
-> xxxxxyyyyyzzzz
->
-> xxxxxyyyyyzzzz
->
-> <!--
-style="color: red;"
--->
-> Antwort muss noch ausgearbeitet werden!
-
-***
-
-
-{{26-28}}
-***
-**Frage 14**
-
-Was bedeuten die Begriffe „Schruppdrehen“ und „Schlichtdrehen“? Beschreiben Sie die konventionelle Vorgehensweise für das Drehen eines Passsitzes z.B. 60 h6?
-
-***
-
-{{27-28}}
-***
-> ~~Antwort Frage 14~~
->
-> xxxxxyyyyyzzzz
->
-> xxxxxyyyyyzzzz
->
-> <!--
-style="color: red;"
--->
-> Antwort muss noch ausgearbeitet werden!
-
-***
-
-
-##Spanart, Spanform und Spanformbeeinflussung
-
-{{0-20}}
-***
-**Frage 1**
 
 Erklären Sie den Begriff Spanart und grenzen Sie diesen gegen die Spanformen ab! Nennen Sie die vier auftretenden Spanarten!
 
@@ -582,7 +427,7 @@ Erklären Sie den Begriff Spanart und grenzen Sie diesen gegen die Spanformen ab
 {{1-2}}
 ***
 
-> ~~Antwort Frage 1~~
+> ~~Antwort Frage 9~~
 
 > * Die **Spanart** hängt vom Verformungsverhalten des Werkstückwerkstoffes ab.
 >
@@ -593,9 +438,9 @@ Erklären Sie den Begriff Spanart und grenzen Sie diesen gegen die Spanformen ab
 > * Man unterscheidet in: **Fließspan, Lamellenspan, Scherspan und Reißspan**.
 ***
 
-{{2-20}}
+{{2-14}}
 ***
-**Frage 2**
+**Frage 10**
 
 Wie lässt sich die Spanbildung beeinflussen?
 ***
@@ -603,7 +448,7 @@ Wie lässt sich die Spanbildung beeinflussen?
 {{3-4}}
 ***
 
-> ~~Antwort Frage 2~~
+> ~~Antwort Frage 10~~
 >
 > Die Spanbildung lässt sich durch folgende Kriterien beeinflussen:
 >
@@ -619,17 +464,17 @@ Wie lässt sich die Spanbildung beeinflussen?
 ***
 
 
-{{4-20}}
+{{4-14}}
 ***
-**Frage 3**
+**Frage 11**
 
-Erklären Sie den Begriff Spanform! Wonach werden Spanformen eingeteilt (klassifiziert)? Welche Spanformen werden den Klassen zugeordnet? Beurteilen Sie die Zweckmäßigkeit der einzelnen Spanformen!
+Erklären Sie den Begriff Spanform! Wonach werden Spanformen eingeteilt (klassifiziert)? Welche Spanformen werden den Klassen zugeordnet?
 
 ***
 
 {{5-6}}
 ***
-> ~~Antwort Frage 3~~
+> ~~Antwort Frage 11~~
 >
 > Spanform ist die Beschreibung der Späne nach Form und Größe.
 >
@@ -646,75 +491,22 @@ Erklären Sie den Begriff Spanform! Wonach werden Spanformen eingeteilt (klassif
 > <br/>
 >
 > ![image](images/Spanformen_nach-Klocke-2008.png)<!--
-style = "width: 75%; "
+style = "width: 90%; "
 -->
->
-><!--
-style="color: red;"
--->
-> Antwort muss noch vernünftig ausgearbeitet werden.
->
-***
-
-
-{{6-20}}
-***
-**Frage 4**
-
-Aus welchen Gründen sind kurzgebrochene Späne erwünscht?
 
 ***
 
-{{7-8}}
+
+{{6-14}}
 ***
-> ~~Antwort Frage 4~~
->
-> kurzgebrochene Späne:
->
-> * Sicherheitsaspekt (Personal, Maschine, Werkzeug, Werkstück)
->
-> * Kleiner Raumbedarf/Schüttdichte; ausgedrückt durch kleine Spanraumzahl
->
-> * günstigerer Spanabtransport als lange Späne
->
-> <!--
-style="color: red;"
--->
-> Antwort muss noch vernünftig ausgearbeitet werden.
-
-***
-
-{{8-20}}
-***
-**Frage 5**
-
-Erläutern Sie die Funktion einer Spanformstufe!
-
-***
-
-{{9-10}}
-***
-> ~~Antwort Frage 5~~
->
-><!--
-style="color: red;"
--->
-> Antwort muss noch vernünftig ausgearbeitet werden.
->
-***
-
-
-
-{{10-20}}
-***
-**Frage 6**
+**Frage 12**
 
 Was drückt die Spanraumzahl R aus und welche Bedeutung hat diese?
 
 ***
-{{11-12}}
+{{7-8}}
 ***
-> ~~Antwort Frage 6~~
+> ~~Antwort Frage 12~~
 >
 > Die Spanraumzahl R drückt das Verhältnis von Spänevolumen zu Werkstoffvolumen aus.
 >
@@ -735,43 +527,20 @@ style="font-size: 16px; width: 660px; margin: 0.25em 1;"
 >
 > Günstig: R = 5…25
 >
-> <!--
-style="color: red;"
--->
-> Antwort muss noch vernünftig ausgearbeitet werden.
 
 ***
 
-{{12-20}}
+{{8-14}}
 ***
-**Frage 7**
+**Frage 13**
 
-Welcher Zusammenhang besteht zwischen Zeitspanungsvolumen (Volumenrate) und Spanraumzahl?
-***
-
-{{13-14}}
-***
-> ~~Antwort Frage 7~~
->
-> <!--
-style="color: red;"
--->
-> *Die Antwort auf diese Frage muss noch ausgearbeitet werden*
+Welche Maßnahmen einer Spanformbeeinflussung können beim Drehen ergriffen werden?
 
 ***
 
-
-{{14-20}}
+{{9-10}}
 ***
-**Frage 8**
-
-Welche Maßnahmen einer Spanformbeeinflussung können beim Drehen ergriffen werden? Wie wirken sich diese positiv oder negativ auf die Spanform aus?
-
-***
-
-{{15-16}}
-***
-> ~~Antwort Frage 8~~
+> ~~Antwort Frage 13~~
 >
 > Möglichkeiten der Spanformbeeinflussung:
 >
@@ -786,86 +555,19 @@ Welche Maßnahmen einer Spanformbeeinflussung können beim Drehen ergriffen werd
 > * Schneidstoff und dessen Beschichtung (Reibungsverhalten)
 >
 > * Kühlschmierstoff (Reibung und Temperaturbeeinflussung)
->
-> <!--
-style="color: red;"
--->
-> *Der erste Teil der Frage muss noch überarbeitet werden*
->
-> <!--
-style="color: red;"
--->
-> *Der zweite Teil der Frage muss noch ausgearbeitet werden*
-***
-
-
-{{16-20}}
-***
-**Frage 9**
-
-Wie lässt sich erklären, dass bei großen Spanungsdicken günstigere Spanformen auftreten als bei geringen Spanungsdicken?
-***
-
-{{17-18}}
-***
-> ~~Antwort Frage 9~~
->
-> <!--
-style="color: red;"
--->
-> *Die Antwort auf diese Frage muss noch ausgearbeitet werden*
 
 ***
 
 
-{{18-20}}
+{{10-14}}
 ***
-**Frage 10**
-
-Welche Möglichkeit besteht, unter Anwendung desselben Werkzeugs die Spanform zu verbessern?
-***
-
-{{19-20}}
-***
-> ~~Antwort Frage 10:~~
->
-> <!--
-style="color: red;"
--->
-> Antwort muss noch ausgearbeitet werden.
-***
-
-
-##Systemgrößen WSWW+H am Beispiel Drehen
-
-{{0-16}}
-***
-**Frage 1**
-
-Der Zerspanprozess als System: Was ist unter System zu verstehen? Warum ist eine Systembetrachtung sinnvoll und welche Systemkomponenten lassen sich am Beispiel Drehprozess zuordnen? Was ist unter System-, Stell-, Prozess- und Wirkgrößen zu verstehen?
-
-***
-
-{{1-2}}
-***
-> ~~Antwort Frage 1~~
->
-> <!--
-style="color: red;"
--->
-> *Die Antwort auf diese Frage muss noch ausgearbeitet werden*
-***
-
-
-{{2-16}}
-***
-**Frage 2**
+**Frage 14**
 
 In der nachfolgenden Abbildung sind die Komponeten der Drehmaschine EMCO Emcomat E300 zu benennen.
 
 ***
 
-{{2-3}}
+{{10-11}}
 ***
 
 ![image](images/Aufbau-EMCO-E300_ohne.png)<!--
@@ -874,198 +576,27 @@ style = "width: 60%; "
 
 ***
 
-{{3-4}}
+{{11-12}}
 ***
-> ~~Antwort Frage 2~~
+> ~~Antwort Frage 14~~
 >
-> <!--
-style="color: red;"
--->
-> *Sollten noch mehr Komponenten hinzugefügt werden?*
-
 > ![image](images/Aufbau-EMCO-E300_mit.png)<!--
 style = "width: 60%; "
 -->
 
 ***
 
-
-{{4-16}}
+{{12-14}}
 ***
-**Frage 3**
-
-Welche Anforderungen werden an eine moderne Drehmaschine gestellt?
-
-***
-
-{{5-6}}
-***
-> ~~Antwort Frage 3~~
->
-> <!--
-style="color: red;"
--->
-> *Die Antwort auf diese Frage muss noch ausgearbeitet werden*
-
-***
-
-
-{{6-16}}
-***
-**Frage 4**
-
-Fragen zur Werkstückspannung
-
-<!--
-style="color: red;"
--->
-*Die Frage muss noch ausgearbeitet werden*
-
-Anforderungen an Werkstückspannmittel; Was gibt es für Werkstückspannmittel für die Drehbearbeitung? Bewertung der Spannsituation bei der Drehbearbeitung?
-
-Welche wesentlichen Anforderungen werden an Werkstückaufnahmen und Spannmittel gestellt? Nennen Sie jeweils drei Beispiele für die Werkstück- und Werkzeugspannung beim Drehen!
-
-***
-
-{{7-8}}
-***
-> ~~Antwort Frage 4~~
->
-> <!--
-style="color: red;"
--->
-> *Die Antwort auf diese Frage muss noch ausgearbeitet werden*
-
-***
-
-
-{{8-16}}
-***
-**Frage 5**
-
-Fragen zur Werkzeugaufnahme, Werkzeugspannung
-
-<!--
-style="color: red;"
--->
-*Die Frage muss noch ausgearbeitet werden*
-
-Was gibt es für Spannmittlel und Aufnahmen für Werkzeuge? Vergleich, Bewertung...
-
-***
-
-{{9-10}}
-***
-> ~~Antwort Frage 5~~
->
-> <!--
-style="color: red;"
--->
-> *Die Antwort auf diese Frage muss noch ausgearbeitet werden*
-
-***
-
-
-
-{{10-16}}
-***
-**Frage 6**
-
-Fragen zu Schneidstoffen
-
-<!--
-style="color: red;"
--->
-*Die Frage muss noch ausgearbeitet werden*
-
-Anforderungen an moderne Schneidstoffe?; Welche wesentlichen Schneidstoffe kommen in der Zerspantechnik zum Einsatz und was sind jeweilige Vorzüge und Grenzen? Welche Schneidstoffgruppe hat die größte Bedeutung in der Zerspantechnik und warum?; Schneidkeramik und deren Einsatzgebiete; CBN: Vorteile, Nachteile, Einsatzgebiete; Beschichtung von Zerspanwerkzeugen? Schneidstoffe und deren Eigenschaften!
-
-***
-
-{{11-12}}
-***
-> ~~Antwort Frage 6~~
->
-> <!--
-style="color: red;"
--->
-> *Die Antwort auf diese Frage muss noch ausgearbeitet werden*
-
-***
-
-
-{{12-16}}
-***
-**Frage 7**
-
-Fragen zur Zerspanbarkeit von Werkstoffen
-Wie wirken sich die wichtigsten Eisenbegleiter (Legierungsbestandteile) auf die Spanformung von Stahl aus?
-
-<!--
-style="color: red;"
--->
-*Die Frage muss noch ausgearbeitet werden*
-
-***
-
-{{13-14}}
-***
-> ~~Antwort Frage 7~~
->
-> <!--
-style="color: red;"
--->
-> *Die Antwort auf diese Frage muss noch ausgearbeitet werden*
-
-***
-
-
-
-{{14-16}}
-***
-**Frage 8**
-
-Fragen zum Kühlschmierstoff
-
-<!--
-style="color: red;"
--->
-*Die Frage muss noch ausgearbeitet werden*
-
-zum Beispiel:
-
-Welche wesentlichen Aufgaben werden an Kühlschmierstoffe gestellt?
-Wie werden Kühlschmierstoffe eingeteilt?
-Beschreiben Sie die Motivation zur Trockenbearbeitung! Was ist bei der Umstellung auf die Trockenbearbeitung zu beachten?
-Was verstehen Sie unter Mindermengenschmierung und Minimalmengen-kühlschmierung?
-
-***
-
-{{15-16}}
-***
-> ~~Antwort Frage 8~~
->
-> <!--
-style="color: red;"
--->
-> *Die Antwort auf diese Frage muss noch ausgearbeitet werden*
-
-***
-
-
-##Zerspankraft, Leistung, Arbeit und Energie
-
-{{0-18}}
-***
-**Frage 1**
+**Frage 15**
 
 Wozu benötigt der Ingenieur Kenntnisse über die Zerspankräfte und Leistungen?
 
 ***
 
-{{1-2}}
+{{13-14}}
 ***
-> ~~Antwort Frage 1:~~
+> ~~Antwort Frage 15:~~
 >
 > **Die Zerspankraft wird benötigt für:**
 >
@@ -1073,7 +604,7 @@ Wozu benötigt der Ingenieur Kenntnisse über die Zerspankräfte und Leistungen?
 >
 > * Festlegung der Schnittbedingungen / Schneidstoffauswahl
 >
-> * notwendigen Werkstück- und Werkzeugspannungen
+> * notwendige Werkstück- und Werkzeugspannungen
 >
 > * Bestimmung des Energie- und Leistungsbedarfs
 >
@@ -1085,21 +616,22 @@ Wozu benötigt der Ingenieur Kenntnisse über die Zerspankräfte und Leistungen?
 >
 > * Erkennen von WZ-Verschleiß (Prozess- und Qualitätsüberwachung)
 >
-> * Optimierung der Werkzeuges
+> * Optimierung der Werkzeuge
 >
 
 ***
 
+## Fragen 16 - 22
 
-{{2-18}}
+{{0-14}}
 ***
-**Frage 2**
+**Frage 16**
 
 In welche Komponenten wird die Zerspankraft zerlegt?
 
 ***
 
-{{2-3}}
+{{0-1}}
 ***
 ![image](images/Zerspankraftkomponenten-leer.png)<!--
 style = "width: 60%; "
@@ -1112,9 +644,9 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 
 ***
 
-{{3-4}}
+{{1-2}}
 ***
-> ~~Antwort Frage 2:~~
+> ~~Antwort Frage 16:~~
 >
 > <br/>
 >
@@ -1129,16 +661,16 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 
 ***
 
-{{4-18}}
+{{2-14}}
 ***
-**Frage 3**
+**Frage 17**
 
 Welche Haupteinflüsse gehen grundlegend in das Zerspankraftmodell ein (einfache Grundgleichung nach Kienzle/Victor) und welche Einflüsse können über Korrekturfaktoren berücksichtigt werden (erweiterte oder allgemeine Grundgleichung nach Kienzle/Victor)?
 ***
 
-{{5-6}}
+{{3-4}}
 ***
-> ~~Antwort Frage 3:~~
+> ~~Antwort Frage 17:~~
 >
 > **Zerspanungsquerschnitt**
 >
@@ -1182,17 +714,17 @@ style="font-size: 14px; margin: 1em 5em;"
 ***
 
 
-{{6-18}}
+{{4-14}}
 ***
-**Frage 4**
+**Frage 18**
 
 Wie lautet die allgemeine Grundgleichung für die Schnittkraft $ F_c $ nach KIENZLE/VICTOR?
 
 ***
 
-{{7-8}}
+{{5-6}}
 ***
-> ~~Antwort Frage 4:~~
+> ~~Antwort Frage 18:~~
 >
 > $\bold{F_c = k_{c1.1} \cdot b \cdot h^{1-m_c} \cdot K_{3c} \cdot K_{4c}} $
 >
@@ -1213,16 +745,16 @@ Wie lautet die allgemeine Grundgleichung für die Schnittkraft $ F_c $ nach KIEN
 ***
 
 
-{{8-18}}
+{{6-14}}
 ***
-**Frage 5**
+**Frage 19**
 
 Skizzieren Sie den Einfluss von:
 
 Vorschub $f$, Schnitttiefe $a_p$ , Schnittgeschwindigkeit $v_c$ und Werkzeug-Einstellwinkel $\kappa_r$ auf die Zerspankraftkomponenten $F_c$, $F_f$ und $F_p$!
 ***
 
-{{8-9}}
+{{6-7}}
 ***
 ![image](images/Einfluss-vc_ap_f_kr_auf-spez-Schnittkraft-ohne.png)<!--
 style = "width: 75%; margin: 0em 5em;"
@@ -1235,9 +767,9 @@ style="font-size: 14px; margin: 1em 0em;"
 ***
 
 
-{{9-10}}
+{{7-8}}
 ***
-> ~~Antwort Frage 5:~~
+> ~~Antwort Frage 19:~~
 >
 > ![image](images/Einfluss-vc_ap_f_kr_auf-spez-Schnittkraft-mit.png)<!--
 style = "width: 100%; "
@@ -1250,120 +782,17 @@ style="font-size: 14px; width: 100%; margin: 1em 0em;"
 
 ***
 
-
-{{10-18}}
+{{8-14}}
 ***
-**Frage 6**
+**Frage 20**
 
-Erläutern Sie die Zerspankraftmessung mit piezoelektrischen Kraftaufnehmern!
-
-<!--
-style="color: red;"
--->
-*Die Frage muss noch überarbeitet werden!*
+Welche wesentlichen Verschleißmechanismen treten beim Spanen auf?
 
 ***
 
-
-{{11-12}}
+{{9-10}}
 ***
-> ~~Antwort Frage 6:~~
->
-> <!--
-style="color: red;"
--->
->  *Die Antwort muss noch ausgearbeitet werden!*
-
-
-***
-
-
-{{12-18}}
-***
-**Frage 7**
-
-Skizzieren und Erläutern Sie den Einfluss der Spanungstiefe h auf die spezifische Zerspanenergie!
-
-***
-
-{{13-14}}
-***
-> ~~Antwort Frage 7:~~
->
-> <!--
-style="color: red;"
--->
->  *Die Antwort muss noch ausgearbeitet werden!*
-
-***
-
-
-{{14-18}}
-***
-**Frage 8**
-
-Wozu dient die Ermittlung der Schnittleistung und wie erfolgt diese?
-
-***
-
-{{15-16}}
-***
-> ~~Antwort Frage 8:~~
->
-> **Leistung beim Spanen**
->
-> Leistungsermittlung dient zur:
->
-> * Auslegung der Antriebe der WZM
->
-> * Beantwortung der Frage, welche Bearbeitung auf welcher Maschine in der Produktion ausgeführt werden kann
->
-> * Allgemeine Berechnung der Zerspanleistung: Produkt der jeweiligen Geschwindigkeitskomponente und der in ihrer Richtung wirkenden Kraftkomponente:
->
-> <!--
-style="color: red;"
--->
-> *Die Antwort muss noch weiter ausgearbeitet werden!*
-***
-
-
-
-{{16-18}}
-***
-**Frage 9**
-
-Warum ist die Vorschubleistung wesentlich kleiner als die Schnittleistung?
-
-***
-
-{{17-18}}
-***
-> ~~Antwort Frage 9:~~
->
-> <!--
-style="color: red;"
--->
->  *Die Antwort muss noch ausgearbeitet werden!*
-
-***
-
-
-
-##Verschleiß
-
-{{0-14}}
-***
-**Frage 1**
-
-Welche wesentlichen Verschleißmechanismen treten beim Spanen auf? Was beeinflusst den Verschleiß!
-
-***
-
-{{1-2}}
-***
-> ~~Antwort Frage 1:~~
->
-> Verschleißmechanismen:
+> ~~Antwort Frage 20:~~
 >
 > * Mechanischer Verschleiß / Abrasion
 >
@@ -1373,26 +802,21 @@ Welche wesentlichen Verschleißmechanismen treten beim Spanen auf? Was beeinflus
 >
 > * Oxidation
 >
-> * Plastische Verformung  und Rissbildung
->
-> <!--
-style="color: red;"
--->
->  *Die Antwort muss noch ausgearbeitet werden!*
+> * Plastische Verformung und Rissbildung
 
 ***
 
-{{2-14}}
+{{10-14}}
 ***
-**Frage 2**
+**Frage 21**
 
 Was ist unter dem Begriff Aufbauschneide zu verstehen und welche Auswirkungen hat diese auf das Arbeitsergebnis am Werkstück und auf das Werkzeug?
 
 ***
 
-{{3-4}}
+{{11-12}}
 ***
-> ~~Antwort Frage 2:~~
+> ~~Antwort Frage 21:~~
 >
 > Begriff Aufbauschneide:
 >
@@ -1449,16 +873,16 @@ style = "font-size: 14px; width: 100%; margin: 1em 2em; "
 >
 ***
 
-{{4-14}}
+{{12-14}}
 ***
-**Frage 3**
+**Frage 22**
 
-Was sind die wesentlichen Voraussetzungen zur Aufbauschneidenbildung und durch welche Maßnahmen kann sie vermieden werden? Warum treten Aufbauschneiden nur im Fließspanbereich auf?
+Was sind die wesentlichen Voraussetzungen zur Aufbauschneidenbildung und durch welche Maßnahmen kann sie vermieden werden?
 ***
 
-{{5-6}}
+{{13-14}}
 ***
-> ~~Antwort Frage 3~~
+> ~~Antwort Frage 22~~
 >
 > Voraussetzungen zur Aufbauschneidenbildung
 >
@@ -1480,97 +904,6 @@ Was sind die wesentlichen Voraussetzungen zur Aufbauschneidenbildung und durch w
 > * Erhöhung des Einsatzes von Kühlschmierstoff
 >
 > * Vergrößerung des Spanungsquerschnittes
->
-> <br/>
-> Aufbauschneiden treten nur im Fließspanbereich auf, weil
->
-> <!--
-style="color: red;"
--->
->  *Die Antwort muss noch ergänzt werden!*
-***
-
-
-
-{{6-14}}
-***
-**Frage 4**
-
-Wie wirkt sich Kolkverschleiß, wie Schneidkantenverschleiß auf die Spanformen aus?
-***
-
-{{7-8}}
-***
-> ~~Antwort Frage 4~~
->
-> xxxxxyyyyyzzzz
->
-> xxxxxyyyyyzzzz
->
-> <!--
-style="color: red;"
--->
->  *Die Antwort muss noch ausgearbeitet werden!*
-
-***
-
-
-
-{{8-14}}
-***
-**Frage 5**
-
-Was ist unter dem Begriff Standzeit eines Werkzeugs zu verstehen? Welche Größen haben wesentlichen Einfluss auf die Standzeit?
-***
-
-{{9-10}}
-***
-> ~~Antwort Frage 5~~
->
-> <!--
-
-style="color: red;"
--->
->  *Die Antwort muss noch ausgearbeitet werden!*
-
-***
-
-
-{{10-14}}
-***
-**Frage 6**
-
-Erläutern Sie an einem einfachen Drehversuch die prinzipielle Herleitung der einfachen Standzeitfunktion nach Taylor!
-***
-
-{{11-12}}
-***
-> ~~Antwort Frage 6~~
->
-> <!--
-style="color: red;"
--->
->  *Die Antwort muss noch ausgearbeitet werden!*
-
-***
-
-
-{{12-14}}
-***
-**Frage 7**
-
-Nennen Sie die drei wesentlichen Stellgrößen für die Zerspanung mit geometrisch bestimmter Schneide und ordnen Sie deren Einfluss auf die Standzeit zu! Was verstehen Sie unter kosten- bzw. zeitoptimaler Standzeit?
-***
-
-{{13-14}}
-***
-> ~~Antwort Frage 7~~
->
-> <!--
-style="color: red;"
--->
->  *Die Antwort muss noch ausgearbeitet werden!*
-
 ***
 
 
@@ -1712,7 +1045,7 @@ style="font-size: 24px;"
 **Aufgabe 1**
 
 Ein Absatz an einer Welle aus dem Einsatzstahl 16MnCr5 soll auf d = 45mm vorgedreht werden. Folgende Eingangsgrößen sind bekannt:
-* Schnnittgeschwindigkeit $\ v_c = 300 \space m/min $ (WSP Hartmetall)
+* Schnittgeschwindigkeit $\ v_c = 300 \space m/min $ (WSP Hartmetall)
 * Schnitttiefe $\ a_p = 3 \space mm $
 * Vorschub $\ f = 0,3 \space mm $
 * spezifische Schnittkraft $\ k_c = 2350 \space N/mm^2 $
@@ -1721,9 +1054,9 @@ Ein Absatz an einer Welle aus dem Einsatzstahl 16MnCr5 soll auf d = 45mm vorgedr
 
 ![image](images/Berechnungsaufgabe-1.png)
 
-<br/>
 
 **Wie groß ist die Drehzahl n in U/min?** *(keine Nachkommastelle)*
+
 [[2122]]
 ***
 $ v_c = \pi \cdot d \cdot n $
@@ -1734,6 +1067,7 @@ $\ n = \frac{v_c}{\pi \cdot d} = \frac{300 \space \frac{m}{min}}{\pi \cdot 0,045
 <br/>
 
 **Vorschubgeschwindigkeit $v_f$ in mm/min?** *(eine Nachkommastelle)*
+
 [[636,6]]
 ***
 $\ v_f = f \cdot n = 0,3 \space mm \cdot 2122 \space min^{-1}  = 636,6 \space \frac{mm}{min} $
@@ -1742,6 +1076,7 @@ $\ v_f = f \cdot n = 0,3 \space mm \cdot 2122 \space min^{-1}  = 636,6 \space \f
 <br/>
 
 **Wie lange ist die Hauptzeit $t_h$ in Sekunden bei einer Absatzlänge von L = 80mm?** *(eine Nachkommastelle)*
+
 [[7,5]]
 ***
 $\ t_h = \frac{L}{v_f} = \frac{80 \space mm}{636,6 \space \frac{mm}{min}} = 0,1257 \space min = 7,5 \space s $
@@ -1751,6 +1086,7 @@ $\ t_h = \frac{L}{v_f} = \frac{80 \space mm}{636,6 \space \frac{mm}{min}} = 0,12
 
 
 **Wie groß ist die Schnittkraft Fc in N?** *(keine Nachkommastelle)*
+
 [[2115]]
 ***
 $\ F_c = A \cdot k_c =  b \cdot h \cdot k_c = a_p \cdot f \cdot k_c = 0,3 \space mm \cdot 3 \space mm \cdot 2350 \frac{N}{mm^2} = 2115 \space N $
@@ -1759,13 +1095,13 @@ $\ F_c = A \cdot k_c =  b \cdot h \cdot k_c = a_p \cdot f \cdot k_c = 0,3 \space
 <br/>
 
 **Wie groß ist die Schnittleistung Pc in W für diesen Zerspanprozess?** *(keine Nachkommastelle)*
+
 [[10575]]
 ***
 $\ P_c = F_c \cdot v_c = 2115 \space N \cdot 5 \space \frac{m}{s} = 10575 \space W $
 ***
 
 ***
-
 
 {{1-2}}
 ***
@@ -1789,6 +1125,7 @@ Ist eine Drehmaschine mit einer Antriebsleistung von Pa = 40 kW ausreichend? Beg
 <br/>
 
 **Wie groß ist der Spanungsquerschnitt A in mm²?** *(keine Nachkommastelle)*
+
 [[3]]
 ***
 $\ A = a_p \cdot f = 6 \space mm \cdot 0,5 \space mm = 3 \space mm $
@@ -1797,6 +1134,7 @@ $\ A = a_p \cdot f = 6 \space mm \cdot 0,5 \space mm = 3 \space mm $
 <br/>
 
 **Wie groß ist die Schnittkraft Fc in N** *(keine Nachkommastelle)*
+
 [[7050]]
 ***
 $\ F_c = A \cdot k_c = 3 \space mm^2 \cdot 2350 \space \frac{N}{mm^2} = 7050 \space N $
@@ -1805,6 +1143,7 @@ $\ F_c = A \cdot k_c = 3 \space mm^2 \cdot 2350 \space \frac{N}{mm^2} = 7050 \sp
 <br/>
 
 **Wie groß ist die Schnittleistung Pc in W** *(keine Nachkommastelle)*
+
 [[32312]]
 ***
 $\ P_c = F_c \cdot v_c = 7050 \space N \cdot 4,583 \space \frac{m}{s} = 32312 \space W $
@@ -1813,6 +1152,7 @@ $\ P_c = F_c \cdot v_c = 7050 \space N \cdot 4,583 \space \frac{m}{s} = 32312 \s
 <br/>
 
 **Wie groß ist die erforderliche Antriebsleistung Pa in W?** *(keine Nachkommastelle)*
+
 [[38014]]
 ***
 $\ P_a = \frac{P_c}{\eta} = \frac{32312 \space W}{0,85} = 38014 \space W $
@@ -1821,6 +1161,7 @@ $\ P_a = \frac{P_c}{\eta} = \frac{32312 \space W}{0,85} = 38014 \space W $
 <br/>
 
 **Ist die Antriebsleistung der Drehmaschine (Pa = 40 kW) ausreichend?**
+
 [(X)] ja
 [( )] nein
 ***
@@ -1828,7 +1169,6 @@ Ja, die Antriebsleistung der Drehmaschine ist ausreichend!
 ***
 
 ***
-
 
 {{2-3}}
 ***
@@ -1853,6 +1193,7 @@ sein soll? Der Vorschubwert ist auf die zweite Nachkommastelle zu runden!
 <br/>
 
 **Antwort a)**
+
 [[0,28]]
 ***
 $f\approx\sqrt{8\space\cdot\space Rz_{theor}\space\cdot\space r_\varepsilon} \space\implies\space f\le\sqrt{8\space\cdot\space 0,012\space mm\space\cdot\space 0,8\space mm} $
@@ -1861,6 +1202,7 @@ $f\approx\sqrt{8\space\cdot\space Rz_{theor}\space\cdot\space r_\varepsilon} \sp
 <br/>
 
 **Antwort b)**
+
 [[0,25]]
 ***
 $f\approx\sqrt{8\space\cdot\space Rz_{theor}\space\cdot\space r_\varepsilon} \space\implies\space f\le\sqrt{8\space\cdot\space 0,0063\space mm\space\cdot\space 1,2\space mm}$
@@ -1896,6 +1238,7 @@ $\ \qquad \quad \space k: \space Steigung\space der\space Standzeitgeraden$
 
 <br/>
 **Schnittgeschwindigkeit $v_c$ in m/min**
+
 [[380]]
 ***
 |Nr.|$v_c\space [m/min]$|$T\space [min]$ |$log\space v_c$ | $log\space T$ |
@@ -1958,6 +1301,7 @@ $\ \qquad \quad \space k: \space Steigung\space der\space Standzeitgeraden$
 
 <br/>
 **Standzeit T in min**
+
 [[21]]
 ***
 |Nr.|$v_c\space [m/min]$|$T\space [min]$ |$log\space v_c$ | $log\space T$ |
@@ -2032,6 +1376,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 <br/>
 
 Beantworten Sie die Frage mit "ja" oder "nein"!
+
 [[nein]]
 ***
 <!--
