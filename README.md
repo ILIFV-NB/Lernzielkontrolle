@@ -78,7 +78,7 @@ Was sind die wesentlichen Bewegungen und deren abgeleitete Geschwindigkeiten bei
 ***
 > ~~Antwort Frage 2~~
 >
-> ![image](images/Bewegungen-Richtungen-Drehen.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Bewegungen-Richtungen-Drehen.png)<!--
 style = "width: 50%; "
 -->
 >
@@ -162,7 +162,7 @@ Was sind Schnitt- bzw. Spanungsgrößen? Was verstehen Sie unter dem Zeitspanvol
 >
 > **Schnitt- und Spanungsgrößen beim Längsdrehen:**
 >
-> ![image](images/Schnitt-und-Spanungsgroessen.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Schnitt-und-Spanungsgroessen.png)<!--
 style = "width: 50%; margin: 0em 5em;"
 -->
 >
@@ -213,7 +213,7 @@ In der nachfolgenden Abbildung sehen Sie einen Drehhalter mit Wendeschneidplatte
 {{6-7}}
 ***
 
-![image](images/Schneiden-Flaechen-Schneidkeil-ohne.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Schneiden-Flaechen-Schneidkeil-ohne.png)<!--
 style = "width: 60%; margin: 0em 2em;"
 -->
 
@@ -229,7 +229,7 @@ style="font-size: 14px; width: 100%; margin: 0em 2em;"
 
 > ~~Antwort Frage 4~~
 >
-> ![image](images/Schneiden-Flaechen-Schneidkeil-mit.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Schneiden-Flaechen-Schneidkeil-mit.png)<!--
 style = "width: 75%; margin: 0em 1em;"
 -->
 >
@@ -252,7 +252,7 @@ In der nachfolgenden Abbildung sind Ebenen, Bewegungen, Geschwindigkeiten und Wi
 {{8-9}}
 ***
 
-![image](images/Arbeitsebene-Winkel_ohne.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Arbeitsebene-Winkel_ohne.png)<!--
 style = "width: 60%; margin: 0em 2em;"
 -->
 
@@ -269,7 +269,7 @@ style="font-size: 14px; width: 100%; margin: 0em 1em;"
 >
 > In der Abbildung ist die Arbeitsebene $ P_{fe} $ dargestellt. Diese wird durch die Schnitt- und Vorschubrichtung aufgespannt.
 >
-> ![image](images/Arbeitsebene-Winkel_mit.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Arbeitsebene-Winkel_mit.png)<!--
 style = "width: 75%; margin: 0em 1em;"
 -->
 >
@@ -293,7 +293,7 @@ Welches Bezugssystem ist in der nachfolgenden Abbildung dargestellt? Es sind die
 {{10-11}}
 ***
 
-![image](images/Werkzeugbezugssystem_ohne.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Werkzeugbezugssystem_ohne.png)<!--
 style = "width: 60%; margin: 0em 2em;"
 -->
 
@@ -310,7 +310,7 @@ style="font-size: 14px; width: 100%; margin: 0em 1em;"
 >
 > In der Abbildung ist das Werkzeug-Bezugssystem mit den Ebenen: Arbeitsebene, Werkzeug-Bezugsebene und Werkzeug-Rückebene dargestellt.
 >
-> ![image](images/Werkzeugbezugssystem_mit.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Werkzeugbezugssystem_mit.png)<!--
 style = "width: 75%; margin: 0em 1em;"
 -->
 >
@@ -333,7 +333,7 @@ In der nachfolgenden Abbildung sind die Ebenen im Werkzeug-Bezugssystem einzutra
 {{12-13}}
 ***
 
-![image](images/Ebenen-Werkzeugbezugssystem_ohne.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Ebenen-Werkzeugbezugssystem_ohne.png)<!--
 style = "width: 60%; margin: 0em 2em;"
 -->
 
@@ -348,7 +348,7 @@ style="font-size: 14px; width: 100%; margin: 0em 1em;"
 ***
 > ~~Antwort Frage 7~~
 >
-> ![image](images/Ebenen-Werkzeugbezugssystem_mit.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Ebenen-Werkzeugbezugssystem_mit.png)<!--
 style = "width: 75%; margin: 0em 1em;"
 -->
 >
@@ -371,7 +371,7 @@ In der nachfolgenden Abbildung sind die Winkel und Beziehungen in der Werkzeug-B
 {{14-15}}
 ***
 
-![image](images/Beziehungen-WZ-BE_ohne.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Beziehungen-WZ-BE_ohne.png)<!--
 style = "width: 60%; margin: 0em 2em;"
 -->
 
@@ -387,7 +387,7 @@ style="font-size: 14px; width: 100%; margin: 0em 1em;"
 ***
 > ~~Antwort Frage 8~~
 >
-> ![image](images/Beziehungen-WZ-BE_mit.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Beziehungen-WZ-BE_mit.png)<!--
 style = "width: 75%; margin: 0em 1em;"
 -->
 >
@@ -490,7 +490,7 @@ Erklären Sie den Begriff Spanform! Wonach werden Spanformen eingeteilt (klassif
 >
 > <br/>
 >
-> ![image](images/Spanformen_nach-Klocke-2008.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Spanformen_nach-Klocke-2008.png)<!--
 style = "width: 90%; "
 -->
 
@@ -570,7 +570,7 @@ In der nachfolgenden Abbildung sind die Komponeten der Drehmaschine EMCO Emcomat
 {{10-11}}
 ***
 
-![image](images/Aufbau-EMCO-E300_ohne.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Aufbau-EMCO-E300_ohne.png)<!--
 style = "width: 60%; "
 -->
 
@@ -580,7 +580,7 @@ style = "width: 60%; "
 ***
 > ~~Antwort Frage 14~~
 >
-> ![image](images/Aufbau-EMCO-E300_mit.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Aufbau-EMCO-E300_mit.png)<!--
 style = "width: 60%; "
 -->
 
@@ -633,7 +633,7 @@ In welche Komponenten wird die Zerspankraft zerlegt?
 
 {{0-1}}
 ***
-![image](images/Zerspankraftkomponenten-leer.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Zerspankraftkomponenten-leer.png)<!--
 style = "width: 60%; "
 -->
 
@@ -650,7 +650,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 >
 > <br/>
 >
-> ![image](images/Zerspankraftkomponenten.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Zerspankraftkomponenten.png)<!--
 style = "width: 80%; "
 -->
 >
@@ -688,7 +688,7 @@ Welche Haupteinflüsse gehen grundlegend in das Zerspankraftmodell ein (einfache
 >
 > * *Spanwinkel:* Ein positiver Spanwinkel führt zu geringeren Schnittkräften, da mit steigendem positiven Spanwinkel der Span leichter über die Spanfläche gleitet. Die spezifische Zerspanenergie für das abheben und trennen eines Span verringert sich. Bei ansonsten konstanten Bedingungen, sinken die spezifische Zerspankraft und demzufolge auch die Schnittkraft.
 >
-> ![image](images/Einfluss-Span-und-Neigungswinkel.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Einfluss-Span-und-Neigungswinkel.png)<!--
 style = "width: 50%; margin: 0em 5em;"
 -->
 >
@@ -756,7 +756,7 @@ Vorschub $f$, Schnitttiefe $a_p$ , Schnittgeschwindigkeit $v_c$ und Werkzeug-Ein
 
 {{6-7}}
 ***
-![image](images/Einfluss-vc_ap_f_kr_auf-spez-Schnittkraft-ohne.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Einfluss-vc_ap_f_kr_auf-spez-Schnittkraft-ohne.png)<!--
 style = "width: 75%; margin: 0em 5em;"
 -->
 
@@ -771,7 +771,7 @@ style="font-size: 14px; margin: 1em 0em;"
 ***
 > ~~Antwort Frage 19:~~
 >
-> ![image](images/Einfluss-vc_ap_f_kr_auf-spez-Schnittkraft-mit.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Einfluss-vc_ap_f_kr_auf-spez-Schnittkraft-mit.png)<!--
 style = "width: 100%; "
 -->
 >
@@ -832,7 +832,7 @@ Was ist unter dem Begriff Aufbauschneide zu verstehen und welche Auswirkungen ha
 >
 > * Aufbauschneidenbildung ist i. d. R. unerwünscht
 >
-> ![image](images/Aufbauschneidenbildg.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Aufbauschneidenbildg.png)<!--
 style = "width: 50%; margin: 0em 2em; "
 -->
 >
@@ -1023,12 +1023,6 @@ style="font-size: 16px;"
 [[X]] Oberflächenmodell
 [[ ]] Zeitspanungsvolumenmodell
 [[ ]] Spanraummodell
-***
-<!--
-style="color: red;"
--->
-Erklärung einfügen!
-***
 
 <br/>
 <br/>
@@ -1052,7 +1046,7 @@ Ein Absatz an einer Welle aus dem Einsatzstahl 16MnCr5 soll auf d = 45mm vorgedr
 
 <br/>
 
-![image](images/Berechnungsaufgabe-1.png)
+![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Berechnungsaufgabe-1.png)
 
 
 **Wie groß ist die Drehzahl n in U/min?** *(keine Nachkommastelle)*
