@@ -60,7 +60,7 @@ Welche fünf wesentlichen Kriterien werden zur Beurteilung eines Zerspanprozesse
 >
 > **Zeitspanvolumen / Materialabtrag**
 >
-> * Prodiktivität
+> * Produktivität
 >
 > * Wirtschaftlichkeit
 
@@ -78,7 +78,7 @@ Was sind die wesentlichen Bewegungen und deren abgeleitete Geschwindigkeiten bei
 ***
 > ~~Antwort Frage 2~~
 >
-> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/images/Bewegungen-Richtungen-Drehen.png)<!--
+> ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Bewegungen-Richtungen-Drehen.png)<!--
 style = "width: 50%; "
 -->
 >
