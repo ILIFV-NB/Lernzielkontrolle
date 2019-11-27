@@ -621,7 +621,7 @@ Wozu benötigt der Ingenieur Kenntnisse über die Zerspankräfte und Leistungen?
 
 ***
 
-## Fragen 16 - 22
+## Frage 16 - 22
 
 {{0-14}}
 ***
@@ -1333,57 +1333,6 @@ $\implies \quad log\space T_1\space - \space k\space log\space v_{c1}\space =\sp
 Nach Umstellen der Gleichung erhält man:
 
 $k\space =\space \frac{log\space T_1\space - \space log\space T_2}{log\space v_{c1}\space - \space log\space v_{c2}}$
-***
-
-***
-
-{{5-6}}
-***
-<!--
-style="font-size: 24px;"
--->
-**Aufgabe 6**
-
-Eine in der Praxis übliche Methode zur Spanformung beim Drehen ist der Einsatz von Spanleitstufen. Ihre Aufgabe ist es, den abfließenden Span gegen ein Hindernis in Fließrichtung zu leiten und somit durch eine zusätzliche Materialbeanspruchung, den Span brechen zu lassen.
-
-<!--
-style="font-size: 16px; color: blue;"
--->
-**Ist beim Einsatz einer eingesinterten Spanleitstufe *(Abb. a)* ein sicherer Spanbruch beim Drehen des Werkstoffs C45 gewährleistet, wenn angenommen wird, dass der Span von einem Krümmungsradius $R_0$ auf R = ∞ aufgebogen wird *(Abb. b)?***
-
-Der Einstellwinkel beträgt $\kappa = 90\degree$ *(Abb. c)*.
-
-Der Vorschub beträgt $f = 0,1 \space mm$ *(Abb. c)*.
-
-Der Spanwinkel beträgt $\gamma = 10\degree$.
-
-Der Scherwinkel beträgt $\phi = 35\degree$.
-
-Für den Spanformer gilt: $b_L = 1,0\space mm,\space t_L = 0,3\space mm$.
-
-Die gegen die gekerbte Spanoberseite des Spans gemessene Bruchdehnung von C45 beträgt $\varepsilon_b = 7,1\%$.
-
-
-![image](images/Einsatz_von_Spanleitstufen.png)<!--
-style = "width: 75%; "
--->
-
-<!--
-style="font-size: 14px; width: 100%; margin: 0.25em 0;"
--->
-***Abbildung:*** *Einsatz von Spanleitstufen. __a__ Eingesinterte Spanleitstufe. __b__ Annahme: Span wird von Krümmungsradius R auf R→∞ aufgebogen. __c__ Spanungsgrößen beim Drehen***
-
-<br/>
-
-Beantworten Sie die Frage mit "ja" oder "nein"!
-
-[[nein]]
-***
-<!--
-style="color: red;"
--->
-*Begründung, Rechenweg mus noch ausgearbeitet werden!*
-
 ***
 
 ***
