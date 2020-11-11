@@ -6,9 +6,11 @@ email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
 
 version:  1.0.0
 
-language: de_DE
+language: de
 
 narrator: DE FEMALE
+
+comment:  Testen Sie Ihr Wissen!
 
 -->
 
@@ -86,9 +88,8 @@ style = "width: 50%; "
 style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 -->
 > ***Abbildung:*** *Bewegungen, Richtungen und Geschwindigkeiten beim Drehen (Quelle: Fritz/ Schulze)*
->
-> <br/>
->
+
+
 > ~~**Schnittbewegung**~~
 >
 > * wichtigste Bewegung beim Spanen
@@ -116,9 +117,8 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >  * Werkzeugmaschine (Leistung, Steifigkeit etc.) <br/>
 >  * Trockenbearbeitung / Kühlschmierstoffeinsatz <br/>
 >  * Wahl der weiteren Arbeitswerte (Schnitttiefe, Vorschub etc.) <br/>
->
-> <br/>
->
+
+
 > ~~**Vorschubbewegung**~~
 >
 > * bewirkt zusammen mit Schnittbewegung eine mehrmalige oder stetige Spanabnahme
@@ -131,9 +131,8 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >  * Aufteilung/ Verteilung des Vorschub bei mehrschneidigen Werkzeugen (Bohren, Senken, Reiben, Fräsen etc.) auf mehrere Schneiden <br/>
 >
 > * Technisch wird die Vorschubbewegung von den translatorischen Achsen der Werkzeugmaschine ausgeführt. Vorschub f in mm/U oder Vorschubgeschwindigkeit $v_f$ in mm/min.
->
-> <br/>
->
+
+
 > ~~**Wirkbewegung**~~
 >
 > * resultierende Bewegung aus Schnitt- und Vorschubbewegung
@@ -170,9 +169,8 @@ style = "width: 50%; margin: 0em 5em;"
 style="font-size: 14px; width: 100%; margin: 0em 5em;"
 -->
 > ***Abbildung:*** *Drehen: Schnitt- und Spanungsgrößen (Denkena: 2011)*
->
-> <br/>
->
+
+
 > Schnittgrößen (auch Eingriffsgrößen) sind die technologisch-physikalischen Größen, die aus den Bewegungen zwischen Werkzeug und Werkstück abgeleitet sind und zur Spanabnahme an der Maschine eingestellt werden müssen. Hierbei handelt es sich um die Schnitttiefe (Zustellung) $a_p$ und den Vorschub $f$.
 >
 > Spanungsgrößen, für die Kennzeichnung des Spanbildungsvorgangs wesentlich, sind aus den Schnittgrößen über den Einstellwinkel $ \kappa_r $ abgeleitet und beschreiben die Form und Größe der vom Werkstück abzuspanenden Schichten. Hierbei handelt es sich um die Spanungsbreite b und die Spanungsdicke h.
@@ -186,9 +184,8 @@ style="font-size: 14px; width: 100%; margin: 0em 5em;"
 > $ A = a_p \cdot f $
 >
 > $ A = b \cdot h $
->
-> <br/>
->
+
+
 > **Zeitspanungsvolumen $Q_w$:**
 >
 > Ist das in einer bestimmten Zeiteinheit vom Werkstück abgespante Werkstoffvolumen (Spanungsvolumen).
@@ -395,9 +392,8 @@ style = "width: 75%; margin: 0em 1em;"
 style="font-size: 14px; width: 100%; margin: 0em 1em;"
 -->
 > ***Abbildung:*** *Winkel und Beziehungen in der Werkzeug-Bezugsebene nach DIN 6581*
->
-> <br/>
->
+
+
 > $v_f \qquad$ Vorschubgeschwindigkeit
 >
 > $v_c \qquad$ Schnittgeschwindigkeit
@@ -487,9 +483,8 @@ Erklären Sie den Begriff Spanform! Wonach werden Spanformen eingeteilt (klassif
 > * gut (6-8): kurze und konische Wendelspäne, Spiralspäne
 >
 > * brauchbar (9-10): Spanlocken, Bröckelspäne
->
-> <br/>
->
+
+
 > ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Spanformen_nach-Klocke-2008.png)<!--
 style = "width: 90%; "
 -->
@@ -522,9 +517,8 @@ style="font-size: 16px; width: 660px; margin: 0.25em 1;"
 > $\quad Q_{SP}\quad Spänevolumen\quad [mm^3 / min]$
 >
 > $\quad Q_W\quad WSt-Volumen\quad [mm^3 / min]$
->
-> <br/>
->
+
+
 > Günstig: R = 5…25
 >
 
@@ -647,9 +641,8 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 {{1-2}}
 ***
 > ~~Antwort Frage 16:~~
->
-> <br/>
->
+
+
 > ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Zerspankraftkomponenten.png)<!--
 style = "width: 80%; "
 -->
@@ -818,7 +811,7 @@ Was ist unter dem Begriff Aufbauschneide zu verstehen und welche Auswirkungen ha
 ***
 > ~~Antwort Frage 21:~~
 >
-> Begriff Aufbauschneide:
+> **Begriff Aufbauschneide:**
 >
 > * Die Aufbauschneide ist eine Ansammlung kleinster Werkstoffteilchen des bearbeiteten Materials, die sich durch Pressschweißung und Klebeerscheinungen aufbaut.
 >
@@ -840,24 +833,18 @@ style = "width: 50%; margin: 0em 2em; "
 style = "font-size: 14px; width: 100%; margin: 0em 2em; "
 -->
 > ***Abbildung:*** *Aufbauschneidenbildung*
->
-> <br/>
+
+
 > Das folgende Video zeigt die Aufbauschneidenbildung bei einer Drehbearbeitung. Hier wird zudem die Gefügeveränderung des Werkstückwerkstoffes sichtbar.
 >
-> <br/>
->
-> <!--
-style = "width: 50%; margin: 0em 2em; "
--->
 > <iframe width="540" height="305" src="https://www.youtube.com/embed/mRuSYQ5Npek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
->
 > <!--
 style = "font-size: 14px; width: 100%; margin: 1em 2em; "
 -->
 > ***Video:*** *Aufbauschneidenbildung bei der Drehbearbeitung (Quelle: Werkstatt + Betrieb)*
->
-> <br/>
-> Auswirkung der Aufbauschneide:
+
+
+> **Auswirkung der Aufbauschneide:**
 >
 > * Erleichtern i.d.R. die Spanbildung (geringere Kräfte)
 >
@@ -884,7 +871,7 @@ Was sind die wesentlichen Voraussetzungen zur Aufbauschneidenbildung und durch w
 ***
 > ~~Antwort Frage 22~~
 >
-> Voraussetzungen zur Aufbauschneidenbildung
+> **Voraussetzungen zur Aufbauschneidenbildung**
 >
 > * Fähigkeit zur Kaltverfestigung des Werkstückwerkfstoffes
 >
@@ -895,7 +882,7 @@ Was sind die wesentlichen Voraussetzungen zur Aufbauschneidenbildung und durch w
 > * ausreichend geringe Temperaturen in der Spanbildungszone, die keine Rekristallisation zulassen
 >
 > <br/>
-> Gegenmaßnahmen
+> **Gegenmaßnahmen**
 >
 > * Erhöhung der Schnittgeschwindigkeit
 >
@@ -907,7 +894,7 @@ Was sind die wesentlichen Voraussetzungen zur Aufbauschneidenbildung und durch w
 ***
 
 
-##Quiz
+## Quiz
 
 <!--
 style="font-size: 16px;"
@@ -1028,7 +1015,7 @@ style="font-size: 16px;"
 <br/>
 
 
-##Berechnungsaufgaben
+## Berechnungsaufgaben
 
 {{0-1}}
 ***
