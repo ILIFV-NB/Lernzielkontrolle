@@ -4,7 +4,7 @@ author:   Nancy Brinkmann, Ronny Stolze
 
 email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
 
-version:  1.0.0
+version:  11.20
 
 language: de
 
@@ -838,6 +838,11 @@ style = "font-size: 14px; width: 100%; margin: 0em 2em; "
 > Das folgende Video zeigt die Aufbauschneidenbildung bei einer Drehbearbeitung. Hier wird zudem die Gefügeveränderung des Werkstückwerkstoffes sichtbar.
 >
 > <iframe width="540" height="305" src="https://www.youtube.com/embed/mRuSYQ5Npek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <br/>
+> <br/>
+> <!--
+style = "font-size: 14px; width: 100%; margin: 0em 2em; "
+-->
 > ***Video:*** *Aufbauschneidenbildung bei der Drehbearbeitung (Quelle: Werkstatt + Betrieb)*
 
 
