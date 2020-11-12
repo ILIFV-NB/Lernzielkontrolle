@@ -838,9 +838,6 @@ style = "font-size: 14px; width: 100%; margin: 0em 2em; "
 > Das folgende Video zeigt die Aufbauschneidenbildung bei einer Drehbearbeitung. Hier wird zudem die Gefügeveränderung des Werkstückwerkstoffes sichtbar.
 >
 > <iframe width="540" height="305" src="https://www.youtube.com/embed/mRuSYQ5Npek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> <!--
-style = "font-size: 14px; width: 100%; margin: 1em 2em; "
--->
 > ***Video:*** *Aufbauschneidenbildung bei der Drehbearbeitung (Quelle: Werkstatt + Betrieb)*
 
 
@@ -1188,11 +1185,11 @@ Gegebene Formel: $\qquad v_c\space=\space C_T\space \cdot \space T^\frac{1}{k}$
 
 mit
 
-$\ \qquad \quad C_T: Schnittgeschwindigkeit\space bei\space T\space =\space 1\space min$
+$\ \qquad \quad C_T: $ Schnittgeschwindigkeit bei $ T\space =\space 1\space min$
 
-$\ \qquad \quad \space T: \space Standzeit$
+$\ \qquad \quad \space T: $ Standzeit
 
-$\ \qquad \quad \space k: \space Steigung\space der\space Standzeitgeraden$
+$\ \qquad \quad \space k: $ Steigung der Standzeitgeraden
 
 
 <br/>
@@ -1245,11 +1242,11 @@ Gegebene Formel: $\qquad T\space=\space C_v\space \cdot \space v_c^k$
 
 mit
 
-$\ \qquad \quad \space T: \space Standzeit$
+$\ \qquad \quad \space T: $ Standzeit
 
-$\ \qquad \quad C_v:\space Standzeit\space bei\space vc\space =\space 1\space m/min$
+$\ \qquad \quad C_v: $ Standzeit bei $ vc\space =\space 1\space m/min$
 
-$\ \qquad \quad \space k: \space Steigung\space der\space Standzeitgeraden$
+$\ \qquad \quad \space k: $ Steigung der Standzeitgeraden
 
 <br/>
 **Standzeit T in min**
