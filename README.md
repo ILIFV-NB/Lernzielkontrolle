@@ -840,9 +840,6 @@ style = "font-size: 14px; width: 100%; margin: 0em 2em; "
 > <iframe width="540" height="305" src="https://www.youtube.com/embed/mRuSYQ5Npek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > <br/>
 > <br/>
-> <!--
-style = "font-size: 14px; width: 100%; margin: 0em 2em; "
--->
 > ***Video:*** *Aufbauschneidenbildung bei der Drehbearbeitung (Quelle: Werkstatt + Betrieb)*
 
 
