@@ -483,8 +483,8 @@ Erklären Sie den Begriff Spanform! Wonach werden Spanformen eingeteilt (klassif
 > * gut (6-8): kurze und konische Wendelspäne, Spiralspäne
 >
 > * brauchbar (9-10): Spanlocken, Bröckelspäne
-
-
+>
+> <br/>
 > ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Spanformen_nach-Klocke-2008.png)<!--
 style = "width: 90%; "
 -->
@@ -517,8 +517,8 @@ style="font-size: 16px; width: 660px; margin: 0.25em 1;"
 > $\quad Q_{SP}\quad Spänevolumen\quad [mm^3 / min]$
 >
 > $\quad Q_W\quad WSt-Volumen\quad [mm^3 / min]$
-
-
+>
+> <br/>
 > Günstig: R = 5…25
 >
 
@@ -641,8 +641,8 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 {{1-2}}
 ***
 > ~~Antwort Frage 16:~~
-
-
+>
+> <br/>
 > ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Zerspankraftkomponenten.png)<!--
 style = "width: 80%; "
 -->
@@ -1011,19 +1011,20 @@ style="font-size: 16px;"
 [[ ]] Zeitspanungsvolumenmodell
 [[ ]] Spanraummodell
 
-<br/>
-<br/>
 
+## **Berechnungsaufgaben**
 
-## Berechnungsaufgaben
+[Aufgabe 1](#7)
 
-{{0-1}}
-***
+[Aufgabe 2](#8)
 
-<!--
-style="font-size: 24px;"
--->
-**Aufgabe 1**
+[Aufgabe 3](#9)
+
+[Aufgabe 4](#10)
+
+[Aufgabe 5](#11)
+
+### Aufgabe 1
 
 Ein Absatz an einer Welle aus dem Einsatzstahl 16MnCr5 soll auf d = 45mm vorgedreht werden. Folgende Eingangsgrößen sind bekannt:
 * Schnittgeschwindigkeit $\ v_c = 300 \space m/min $ (WSP Hartmetall)
@@ -1082,15 +1083,8 @@ $\ F_c = A \cdot k_c =  b \cdot h \cdot k_c = a_p \cdot f \cdot k_c = 0,3 \space
 $\ P_c = F_c \cdot v_c = 2115 \space N \cdot 5 \space \frac{m}{s} = 10575 \space W $
 ***
 
-***
 
-{{1-2}}
-***
-
-<!--
-style="font-size: 24px;"
--->
-**Aufgabe 2**
+### Aufgabe 2
 
 Für eine Längsdrehoperation ist die Antriebsleistung einer Drehmaschine nachzurechnen! Folgende Angaben sind bekannt:
 
@@ -1149,15 +1143,7 @@ $\ P_a = \frac{P_c}{\eta} = \frac{32312 \space W}{0,85} = 38014 \space W $
 Ja, die Antriebsleistung der Drehmaschine ist ausreichend!
 ***
 
-***
-
-{{2-3}}
-***
-
-<!--
-style="font-size: 24px;"
--->
-**Aufgabe 3**
+### Aufgabe 3
 
 Welchen Wert darf der Vorschub f in mm bei einer Längsdrehoperation nicht überschreiten, wenn die Wendeschneidplatte einen Eckenradius von
 
@@ -1189,15 +1175,7 @@ $f\approx\sqrt{8\space\cdot\space Rz_{theor}\space\cdot\space r_\varepsilon} \sp
 $f\approx\sqrt{8\space\cdot\space Rz_{theor}\space\cdot\space r_\varepsilon} \space\implies\space f\le\sqrt{8\space\cdot\space 0,0063\space mm\space\cdot\space 1,2\space mm}$
 ***
 
-***
-
-{{3-4}}
-***
-
-<!--
-style="font-size: 24px;"
--->
-**Aufgabe 4**
+### Aufgabe 4
 
 Nach einer Eingriffszeit von 15 min soll das Standzeitende einer Hartmetallschneide eines Drehwerkzeuges erreicht werden. Technologische Versuche für den vorliegenden Werkstoff eines Untersuchungswerkstückes haben die folgende Abhängigkeit ergeben: <br/>
 
@@ -1253,15 +1231,8 @@ Nach Umstellen der Gleichung erhält man:
 $k\space =\space \frac{log\space T_1\space - \space log\space T_2}{log\space v_{c1}\space - \space log\space v_{c2}}$
 ***
 
-***
 
-{{4-5}}
-***
-
-<!--
-style="font-size: 24px;"
--->
-**Aufgabe 5**
+### Aufgabe 5
 
 Für eine Werkstoff-Schneidstoffpaarung ist für eine vorgegebene Schnittgeschwindigkeit die Standzeit zu berechnen. Technologische Versuche für den Untersuchungswerkstückwerkstoff haben die folgende Abhängigkeit ergeben:
 
@@ -1314,6 +1285,4 @@ $\implies \quad log\space T_1\space - \space k\space log\space v_{c1}\space =\sp
 Nach Umstellen der Gleichung erhält man:
 
 $k\space =\space \frac{log\space T_1\space - \space log\space T_2}{log\space v_{c1}\space - \space log\space v_{c2}}$
-***
-
 ***
