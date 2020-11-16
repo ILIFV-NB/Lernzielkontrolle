@@ -90,7 +90,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 > ***Abbildung:*** *Bewegungen, Richtungen und Geschwindigkeiten beim Drehen (Quelle: Fritz/ Schulze)*
 
 
-> ~~**Schnittbewegung**~~
+> **Schnittbewegung**
 >
 > * wichtigste Bewegung beim Spanen
 >
@@ -119,7 +119,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >  * Wahl der weiteren Arbeitswerte (Schnitttiefe, Vorschub etc.) <br/>
 
 
-> ~~**Vorschubbewegung**~~
+> **Vorschubbewegung**
 >
 > * bewirkt zusammen mit Schnittbewegung eine mehrmalige oder stetige Spanabnahme
 >
@@ -133,7 +133,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 > * Technisch wird die Vorschubbewegung von den translatorischen Achsen der Werkzeugmaschine ausgeführt. Vorschub f in mm/U oder Vorschubgeschwindigkeit $v_f$ in mm/min.
 
 
-> ~~**Wirkbewegung**~~
+> **Wirkbewegung**
 >
 > * resultierende Bewegung aus Schnitt- und Vorschubbewegung
 >
