@@ -1235,8 +1235,8 @@ $k\space =\space \frac{log\space T_1\space - \space log\space T_2}{log\space v_{
 
 Für eine Werkstoff-Schneidstoffpaarung ist für eine vorgegebene Schnittgeschwindigkeit die Standzeit zu berechnen. Technologische Versuche für den Untersuchungswerkstückwerkstoff haben die folgende Abhängigkeit ergeben:
 
-Versuch 1: $\qquad v_{c1}\space = \space 5 \quad\space m/s \qquad\qquad T_1\space=\space 50\space min$ <br/>
-Versuch 2: $\qquad v_{c2}\space = \space 400 \space m/min \qquad\space\space T_2\space=\space 10\space min$
+Versuch 1: $\qquad v_{c1}\space = \space 5 \quad\quad m/s \qquad\qquad T_1\space=\space 50\quad min$ <br/>
+Versuch 2: $\qquad v_{c2}\space = \space 400 \quad m/min \qquad\quad T_2\space=\space 10\quad min$
 
 Welche Standzeit wird mit einer eingestellten Schnittgeschwindigkeit von $v_c$ = 350m/min erreicht?
 
