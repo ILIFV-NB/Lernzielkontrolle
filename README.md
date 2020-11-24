@@ -132,6 +132,8 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >
 > * Technisch wird die Vorschubbewegung von den translatorischen Achsen der Werkzeugmaschine ausgeführt. Vorschub f in mm/U oder Vorschubgeschwindigkeit $v_f$ in mm/min. <br/>
 
+<br/>
+
 
 > **Wirkbewegung**
 >
