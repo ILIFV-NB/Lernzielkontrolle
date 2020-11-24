@@ -90,7 +90,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 > ***Abbildung:*** *Bewegungen, Richtungen und Geschwindigkeiten beim Drehen (Quelle: Fritz/ Schulze)*
 
 
-> **Schnittbewegung**
+> **~~Schnittbewegung~~**
 >
 > * wichtigste Bewegung beim Spanen
 >
@@ -118,8 +118,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >  * Trockenbearbeitung / Kühlschmierstoffeinsatz <br/>
 >  * Wahl der weiteren Arbeitswerte (Schnitttiefe, Vorschub etc.) <br/>
 
-
-> **Vorschubbewegung**
+> **~~Vorschubbewegung~~**
 >
 > * bewirkt zusammen mit Schnittbewegung eine mehrmalige oder stetige Spanabnahme
 >
@@ -132,10 +131,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >
 > * Technisch wird die Vorschubbewegung von den translatorischen Achsen der Werkzeugmaschine ausgeführt. Vorschub f in mm/U oder Vorschubgeschwindigkeit $v_f$ in mm/min. <br/>
 
-<br/>
-
-
-> **Wirkbewegung**
+> **~~Wirkbewegung~~**
 >
 > * resultierende Bewegung aus Schnitt- und Vorschubbewegung
 >
@@ -1237,8 +1233,8 @@ $k\space =\space \frac{log\space T_1\space - \space log\space T_2}{log\space v_{
 
 Für eine Werkstoff-Schneidstoffpaarung ist für eine vorgegebene Schnittgeschwindigkeit die Standzeit zu berechnen. Technologische Versuche für den Untersuchungswerkstückwerkstoff haben die folgende Abhängigkeit ergeben:
 
-Versuch 1: $\qquad v_{c1}\space = \space 5 \quad\space m/s \qquad\qquad T_1\space=\space 50\space min$ <br/>
-Versuch 2: $\qquad v_{c2}\space = \space 400 \space m/min \qquad\space\space T_2\space=\space 10\space min$
+Versuch 1: $\qquad v_{c1}\space = \space 5 \quad\quad m/s \qquad\qquad T_1\space=\space 50\quad min$ <br/>
+Versuch 2: $\qquad v_{c2}\space = \space 400 \quad m/min \qquad\quad T_2\space=\space 10\quad min$
 
 Welche Standzeit wird mit einer eingestellten Schnittgeschwindigkeit von $v_c$ = 350m/min erreicht?
 
