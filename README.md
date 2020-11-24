@@ -116,7 +116,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >  * Werkzeug (Geometrie, Verschleiß etc.) <br/>
 >  * Werkzeugmaschine (Leistung, Steifigkeit etc.) <br/>
 >  * Trockenbearbeitung / Kühlschmierstoffeinsatz <br/>
->  * Wahl der weiteren Arbeitswerte (Schnitttiefe, Vorschub etc.) <br/>
+>  * Wahl der weiteren Arbeitswerte (Schnitttiefe, Vorschub etc.)
 
 > **~~Vorschubbewegung~~**
 >
@@ -129,7 +129,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >  * häufig nur mit Vorschub f gearbeitet, f entspricht dem Weg je Umdrehung oder je Hub <br/>
 >  * Aufteilung/ Verteilung des Vorschub bei mehrschneidigen Werkzeugen (Bohren, Senken, Reiben, Fräsen etc.) auf mehrere Schneiden <br/>
 >
-> * Technisch wird die Vorschubbewegung von den translatorischen Achsen der Werkzeugmaschine ausgeführt. Vorschub f in mm/U oder Vorschubgeschwindigkeit $v_f$ in mm/min. <br/>
+> * Technisch wird die Vorschubbewegung von den translatorischen Achsen der Werkzeugmaschine ausgeführt. Vorschub f in mm/U oder Vorschubgeschwindigkeit $v_f$ in mm/min.
 
 > **~~Wirkbewegung~~**
 >
