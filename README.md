@@ -119,6 +119,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >  * Wahl der weiteren Arbeitswerte (Schnitttiefe, Vorschub etc.) <br/>
 
 
+
 > **Vorschubbewegung**
 >
 > * bewirkt zusammen mit Schnittbewegung eine mehrmalige oder stetige Spanabnahme
