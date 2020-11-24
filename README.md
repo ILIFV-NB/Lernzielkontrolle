@@ -116,7 +116,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >  * Werkzeug (Geometrie, Verschleiß etc.) <br/>
 >  * Werkzeugmaschine (Leistung, Steifigkeit etc.) <br/>
 >  * Trockenbearbeitung / Kühlschmierstoffeinsatz <br/>
->  * Wahl der weiteren Arbeitswerte (Schnitttiefe, Vorschub etc.) <br/>
+>  * Wahl der weiteren Arbeitswerte (Schnitttiefe, Vorschub etc.)
 
 
 > **Vorschubbewegung**
