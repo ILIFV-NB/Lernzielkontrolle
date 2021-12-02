@@ -619,10 +619,6 @@ Wozu benötigt der Ingenieur Kenntnisse über die Zerspankräfte und Leistungen?
 
 In welche Komponenten wird die Zerspankraft zerlegt?
 
-***
-
-{{0-1}}
-***
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Zerspankraftkomponenten-leer.png)<!--
 style = "width: 60%; "
 -->
@@ -631,14 +627,12 @@ style = "width: 60%; "
 style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 -->
 ***Abbildung:*** *Zerspankraft und ihre Komponenten beim Drehen nach DIN 6585 (Spur2014)*
-
 ***
 
 {{1-2}}
 ***
 > ~~Antwort Frage 16:~~
 >
-> <br/>
 > ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Zerspankraftkomponenten.png)<!--
 style = "width: 80%; "
 -->
@@ -647,7 +641,6 @@ style = "width: 80%; "
 style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 -->
 > ***Abbildung:*** *Zerspankraft und ihre Komponenten beim Drehen nach DIN 6585 (Spur2014)*
-
 ***
 
 {{2-14}}
@@ -655,6 +648,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 **Frage 17**
 
 Welche Haupteinflüsse gehen grundlegend in das Zerspankraftmodell ein (einfache Grundgleichung nach Kienzle/Victor) und welche Einflüsse können über Korrekturfaktoren berücksichtigt werden (erweiterte oder allgemeine Grundgleichung nach Kienzle/Victor)?
+
 ***
 
 {{3-4}}
@@ -741,10 +735,7 @@ Wie lautet die allgemeine Grundgleichung für die Schnittkraft $ F_c $ nach KIEN
 Skizzieren Sie den Einfluss von:
 
 Vorschub $f$, Schnitttiefe $a_p$ , Schnittgeschwindigkeit $v_c$ und Werkzeug-Einstellwinkel $\kappa_r$ auf die Zerspankraftkomponenten $F_c$, $F_f$ und $F_p$!
-***
 
-{{6-7}}
-***
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Einfluss-vc_ap_f_kr_auf-spez-Schnittkraft-ohne.png)<!--
 style = "width: 75%; margin: 0em 5em;"
 -->
@@ -753,6 +744,7 @@ style = "width: 75%; margin: 0em 5em;"
 style="font-size: 14px; margin: 1em 0em;"
 -->
 ***Abbildung:*** *Einfluss von Vorschub, Schnitttiefe, Schnittgeschwindigkeit und Einstellwinkel auf die Zerspankraftkomponenten*
+
 ***
 
 
@@ -829,15 +821,15 @@ style = "width: 50%; margin: 0em 2em; "
 style = "font-size: 14px; width: 100%; margin: 0em 2em; "
 -->
 > ***Abbildung:*** *Aufbauschneidenbildung*
-
-
+> <br/>
+> <br/>
 > Das folgende Video zeigt die Aufbauschneidenbildung bei einer Drehbearbeitung. Hier wird zudem die Gefügeveränderung des Werkstückwerkstoffes sichtbar.
->
+> <br/>
+> <br/>
 > <iframe width="540" height="305" src="https://www.youtube.com/embed/mRuSYQ5Npek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > <br/>
 > <br/>
 > ***Video:*** *Aufbauschneidenbildung bei der Drehbearbeitung (Quelle: Werkstatt + Betrieb)*
-
 
 > **Auswirkung der Aufbauschneide:**
 >
@@ -852,7 +844,6 @@ style = "font-size: 14px; width: 100%; margin: 0em 2em; "
 > * adhäsiver WZ-Verschleiß
 >
 > * Einlagern von harten, kaltverfestigten Partikeln in entstehende Oberfläche $\implies$ schlechte Werkstückoberflächen
->
 ***
 
 {{12-14}}
@@ -860,6 +851,7 @@ style = "font-size: 14px; width: 100%; margin: 0em 2em; "
 **Frage 22**
 
 Was sind die wesentlichen Voraussetzungen zur Aufbauschneidenbildung und durch welche Maßnahmen kann sie vermieden werden?
+
 ***
 
 {{13-14}}
