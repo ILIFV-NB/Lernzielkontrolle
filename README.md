@@ -118,6 +118,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >  * Trockenbearbeitung / Kühlschmierstoffeinsatz <br/>
 >  * Wahl der weiteren Arbeitswerte (Schnitttiefe, Vorschub etc.)
 
+
 > **~~Vorschubbewegung~~**
 >
 > * bewirkt zusammen mit Schnittbewegung eine mehrmalige oder stetige Spanabnahme
@@ -131,6 +132,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 >
 > * Technisch wird die Vorschubbewegung von den translatorischen Achsen der Werkzeugmaschine ausgeführt. Vorschub f in mm/U oder Vorschubgeschwindigkeit $v_f$ in mm/min.
 
+
 > **~~Wirkbewegung~~**
 >
 > * resultierende Bewegung aus Schnitt- und Vorschubbewegung
@@ -140,7 +142,7 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 > * Wirkgeschwindigkeit $v_e$ <br/>
 >  * momentane Geschwindigkeit des betrachteten Schneidenpunktes in Wirkrichtung <br/>
 >  * Summe aus Vorschubgeschwindigkeitsvektor und Schnittgeschwindigkeitsvektor <br/>
->
+
 ***
 
 
@@ -422,7 +424,7 @@ Erklären Sie den Begriff Spanart und grenzen Sie diesen gegen die Spanformen ab
 ***
 
 > ~~Antwort Frage 9~~
-
+>
 > * Die **Spanart** hängt vom Verformungsverhalten des Werkstückwerkstoffes ab.
 >
 > * Sie ist die Spangestalt, die sich in Abhängigkeit von der Spanbildung ergibt, während
@@ -437,6 +439,7 @@ Erklären Sie den Begriff Spanart und grenzen Sie diesen gegen die Spanformen ab
 **Frage 10**
 
 Wie lässt sich die Spanbildung beeinflussen?
+
 ***
 
 {{3-4}}
@@ -453,7 +456,6 @@ Wie lässt sich die Spanbildung beeinflussen?
 > * Spanwinkel
 >
 > * Spanungsdicken
->
 
 ***
 
@@ -482,7 +484,6 @@ Erklären Sie den Begriff Spanform! Wonach werden Spanformen eingeteilt (klassif
 >
 > * brauchbar (9-10): Spanlocken, Bröckelspäne
 >
-> <br/>
 > ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Spanformen_nach-Klocke-2008.png)<!--
 style = "width: 90%; "
 -->
@@ -516,9 +517,7 @@ style="font-size: 16px; width: 660px; margin: 0.25em 1;"
 >
 > $\quad Q_W\quad WSt-Volumen\quad [mm^3 / min]$
 >
-> <br/>
 > Günstig: R = 5…25
->
 
 ***
 
@@ -609,7 +608,6 @@ Wozu benötigt der Ingenieur Kenntnisse über die Zerspankräfte und Leistungen?
 > * Erkennen von WZ-Verschleiß (Prozess- und Qualitätsüberwachung)
 >
 > * Optimierung der Werkzeuge
->
 
 ***
 
