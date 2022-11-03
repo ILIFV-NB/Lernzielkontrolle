@@ -744,6 +744,11 @@ Skizzieren Sie den Einfluss von:
 
 Vorschub $f$, Schnitttiefe $a_p$ , Schnittgeschwindigkeit $v_c$ und Werkzeug-Einstellwinkel $\kappa_r$ auf die Zerspankraftkomponenten $F_c$, $F_f$ und $F_p$!
 
+***
+
+{{6-7}}
+***
+
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Einfluss-vc_ap_f_kr_auf-spez-Schnittkraft-ohne.png)<!--
 style = "width: 75%; margin: 0em 5em;"
 -->
