@@ -2,9 +2,9 @@
 
 author:   Nancy Brinkmann, Ronny Stolze
 
-email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
+email:    nancy.brinkmann@h2.de, ronny.stolze@h2.de
 
-version:  11.20
+version:  11.22
 
 language: de
 
@@ -611,6 +611,8 @@ Wozu benötigt der Ingenieur Kenntnisse über die Zerspankräfte und Leistungen?
 
 ***
 
+
+
 ## Frage 16 - 22
 
 {{0-14}}
@@ -618,6 +620,11 @@ Wozu benötigt der Ingenieur Kenntnisse über die Zerspankräfte und Leistungen?
 **Frage 16**
 
 In welche Komponenten wird die Zerspankraft zerlegt?
+
+***
+
+{{0-1}}
+***
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Lernzielkontrolle/master/Images/Zerspankraftkomponenten-leer.png)<!--
 style = "width: 60%; "
@@ -627,6 +634,7 @@ style = "width: 60%; "
 style="font-size: 14px; width: 100%; margin: 0.25em 0;"
 -->
 ***Abbildung:*** *Zerspankraft und ihre Komponenten beim Drehen nach DIN 6585 (Spur2014)*
+
 ***
 
 {{1-2}}
