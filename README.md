@@ -1285,4 +1285,6 @@ $\implies \quad log\space T_1\space - \space k\space log\space v_{c1}\space =\sp
 Nach Umstellen der Gleichung erhält man:
 
 $k\space =\space \frac{log\space T_1\space - \space log\space T_2}{log\space v_{c1}\space - \space log\space v_{c2}}$
+
+<br/>
 ***
